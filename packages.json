@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "liminex/php-cassandra-binary": {
+      "dev-master": { @composer.json }
+    }
+  }
+}
+
